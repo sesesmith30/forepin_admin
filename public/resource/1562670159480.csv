@@ -1,0 +1,420 @@
+SP 1000 ,Valid Until ,01.07.2019 ,,
+,,,,
+DIVISION,ITEM CODE,SUPPLIER,ITEM DESCRIPTION,PRICE
+FOOD,12-202,S/Unimer,Titus 50,162.76
+,12-214,S/Unimer,Princess Sardine in Oil 50*125,147.36
+,12-215,S/Kawasho,SP Geisha 25x155gr,80.19
+,12-219,S/Kawasho,Geisha Sardine 50x125,136.52
+,12-222,S/Kawasho,Geisha 50x155gr,134.41
+,12-225,S/Kawasho,Geisha 24*425G,153.36
+,12-340,S/Kawasho,geisha tuna flakes 24*160 g,168.01
+,31-852,S/Pioneer Food,Starkist T SLO 24*160 G EZO,248.56
+,31-853,S/Pioneer Food,Starkist T FLO 24*170 EZO Smoked,199.41
+,31-854,S/Pioneer Food,Starkist T FLO 24*160 g Litho,224.02
+,31-857,S/Pioneer Food,Starkist T FLO 24*160 G Shito EZO,248.56
+,31-955,S/Pioneer Food,Starkist Tuna CLO 24*160 EZO,248.56
+,38-865,S/Pioneer Food,SP Starkist T FLO 12*160 g Litho,118.13
+,12-601,S/St Louis,ST LOUIS 1KG,225.75
+,12-602,S/St Louis,ST LOUIS 1/2 KG,225.75
+,12-605,S/St Louis,Sugar St Louis 1/2kg with Vitamin A,267.67
+,12-607,S/St Louis,SP ST LOUIS 1/2 KG,53.61
+,12-608,S/St Louis,SP ST LOUIS 1KG,53.61
+,12-802,S/Lesaffre,Saf levure Instant Gold 20*500,236.31
+,12-809,S/Lesaffre,Levure instant pack 500g *20,241.57
+,12-816,S/Lesaffre,Saf Instant Success 20*500G,210.02
+,12-590,S/Fleetwick,green's white oats 16*500 grs,188.27
+,12-825,S/Fleetwick,Backing Powder12*6*100,369.18
+,12-853,S/Fleetwick,Backing Powder18*450,241.52
+,12-520,S/Remia,Rosa Mayonaise12x250,99.8
+,12-521,S/Remia,Rosa Mayonaise12x500,167.6
+,12-522,S/Remia,Rosa Mayonaise 6x1L,154.89
+,12-526,S/Remia,Remia Mayonaise12x250,97.74
+,12-532,S/Remia,Remia Mayonaise15x750,335.2
+,12-546,S/Remia,Dolly's mayonaise 12*500 ml,84.56
+,16-311,S/Remia,Remia Ketchup 15x750ml,264.4
+,16-329,S/Remia,Rosa Mayonaise 4*5 L Bucket,304.54
+,12-852,S/Weetabix,SP Weetabix 9x225 Gr,139.57
+,12-903,S/Weetabix,Weetabix 18x225 Gr,262.55
+,12-823,S/Bruggen,SP Bruggen Corn Flex 4*375,85
+,12-824,S/Bruggen,SP Bruggen Corn Flex 4x500,100
+,17-629,S/Foster C. Food,SP FC Custard Powder 6x450gr,81.07
+,17-645,S/Foster C. Food,FC Custard Powder24x450gr,273.05
+,17-677,S/Foster C. Food,Tiara oats 24*500 grs,282.57
+,17-690,S/Foster C. Food,FC Salad Cream 12*285 G,107.82
+,80-808,S/Foster C. Food,Essence Pineap Pack 12*28ml,25.04
+,80-809,S/Foster C. Food,Essence Stw Pack 12*28 ml,23.09
+,80-810,S/Foster C. Food,Essence Banana Pack12*28ml,25.04
+,80-811,S/Foster C. Food,Essence Vanilla Pack 12*28ml,25.04
+,12-320,S/Inalca,SP BeefPate400GX12,86.91
+,12-321,S/Inalca,BeefPate400GX24,141.78
+,39-100,S/Zenith Oversea,Zesta Ginger Tea 12*25*1.8G,68.3
+,39-101,S/Zenith Oversea,Zesta Strawberry Tea 12*25*1.8G,68.3
+,39-102,S/Zenith Oversea,Zesta Lemon 12*25*1.8G,68.3
+,39-103,S/Zenith Oversea,Zesta Apple Tea 12*25*1.8G,68.3
+,39-104,S/Zenith Oversea,Zesta Pineapple tea 12*25*1.8G,68.3
+,39-105,S/Zenith Oversea,Zesta Green Tea 12*25*2 G,68.3
+,39-106,S/Zenith Oversea,Zesta Black Current Tea 12*25*1.8G,68.3
+,39-107,S/Zenith Oversea,Zesta Green Tea Jasmin  12*25*2G,68.3
+,39-108,S/Zenith Oversea,Zesta Mango Tea 12*25*1.8G,68.3
+,39-109,S/Zenith Oversea,Zesta Lemon Green Tea 12*25*1.8G,68.3
+,39-110,S/Zenith Oversea,zesta sweet apple tea 12*25*1.8 grs,68.3
+,39-111,S/Zenith Oversea,zesta vanilla tea 12*25*1.8 grs,68.3
+,39-112,S/Zenith Oversea,zesta honey lemon tea 12*25*1.8 grs,68.3
+,39-113,S/Zenith Oversea,zesta Peach Tea 12*25*1.8 grs,68.3
+,39-114,S/Zenith Oversea,zesta Earl Grey Tea 12*25*1.8 grs,68.3
+,39-115,S/Zenith Oversea,zesta Banana Tea 12*25*1.8 grs,68.3
+,39-116,S/Zenith Oversea,zesta Black Tea 24*25*1.8 grs,68.3
+,39-117,S/Zenith Oversea,zesta Black Tea 12*100*1.8 grs,126.04
+,39-118,S/Zenith Oversea,zesta English Breakfast  Tea 12*25*1.8,68.3
+,39-119,S/Zenith Oversea,zesta Choclate Cherry 12*20*1.8 Tea,68.3
+,39-121,S/Zenith Oversea,Zesta Orange Tea 12*25*1.8 grs,68.3
+,39-122,S/Zenith Oversea,teazup ginger tea 12*25* 2 gr,54.63
+,39-123,S/Zenith Oversea,teazup strawberry te 12*25*2 gr,54.63
+,39-124,S/Zenith Oversea,teazup apple tea 12*25*2 Gr,54.63
+,39-125,S/Zenith Oversea,tezup green tea 12*25*1.8 g,54.63
+,30-002,S/Kadoglu,Bonita Sun Flower 4*5L,194.28
+,30-003,S/Kadoglu,Bonita Sun Flower 6*3L,178.51
+,30-004,S/Kadoglu,Bonita Oil Sun Flower 9*2L,183.75
+,30-005,S/Kadoglu,Bonita Sun Flower 12*1L,115.5
+,30-006,S/Kadoglu,SP Bonita Sun Flower 1*5L,62.39
+,30-007,S/Kadoglu,SP Bonita Sun Flower 6*1L,75.23
+,14-074,S/Tetley,Tetley Decaf W/S 2*6*40,210.06
+,14-081,S/Tetley,Tetley Drawsting 6x40,94.55
+,14-011,S/Chelsea tea,ChelseaTea Red 110,94.51
+,14-026,S/Chelsea tea,SP ChelseaTea Red 110 5*,60.53
+DRINKS,17-228,S/Parker Drinks,Bonita Guava 12*1L,83.98
+,17-230,S/Parker Drinks,Bonita Apple 12 x 1L,83.98
+,17-234,S/Parker Drinks,Bonita Slim Red Grape 12*1L,105.04
+,17-243,S/Parker Drinks,Bonita Multifruita 12*1L,83.98
+,24-553,S/Chin Chin,Chin Cocktail Fruit 24*340,78.73
+,28-508,S/Chin Chin,Chin Chin Mix Fruit 24x320,78.73
+,28-523,S/Chin Chin,SP Chin Chin Guava 12x320,41.98
+,28-524,S/Chin Chin,SP Chin Chin Mix Fruit 12x320,41.98
+,28-582,S/Chin Chin,Chin Chin cocktail de fruit 24*330,78.73
+,28-583,S/Chin Chin,Chin Chin Apple24*320,78.73
+,27-443,S/E&J Gallo,Night Train12*75 CL,325.5
+,28-401,S/Brasserie Lico,Panache 20*25,47.28
+,38-052,S/Kuhne County M,Countre Milk Chocolate 20*500,130.18
+,38-053,S/Kuhne County M,Countre Milk Vanilla 20*500,130.18
+,38-054,S/Kuhne County M,Country Milk Strawberry 20*500,130.18
+,38-055,S/Kuhne County M,Country Milk Banana 20*500,130.18
+,38-057,S/Kuhne County M,SP Countre Milk Vanilla/Banana/Choclate,130.18
+,26-776,S/Lactalis,Pure Joy Orange Juice 6*100cl,57.78
+,26-777,S/Lactalis,Pure Joy Apple Juice 6*100cl,57.78
+,26-778,S/Lactalis,Pure Joy Mango Juice 6*100cl,57.78
+,26-779,S/Lactalis,Pure Joy Tropical Juice 6*100cl,57.78
+,26-780,S/Lactalis,Pure Joy Peach Juice 6*100cl,57.78
+,26-781,S/Lactalis,Pure Joy Guava Juice 6*100cl,57.78
+,26-782,S/Lactalis,Pure Joy Pineapple  Juice 6*100cl,57.78
+,26-783,S/Lactalis,Pure Joy Berry Nice Juice 6*100cl,57.78
+,26-787,S/Lactalis,Pure Joy Mango Juice 24*20cl,57.78
+,26-791,S/Lactalis,Parmalat Vanilla 12*100cl,272.99
+,26-792,S/Lactalis,Parmalat vanilla  10*50cl,131.24
+,26-793,S/Lactalis,santal orange 12*1000 ml,142.98
+,26-796,S/Lactalis,santal carotte orange citron 12*1000ml,142.98
+,26-800,S/Lactalis,Santal Tiger Nuts 6*1L,79.13
+,38-901,S/Lactasoy,Lactasoy Plain 60*125ML,73
+,38-902,S/Lactasoy,Lactasoy Choclate 60*125ML,73
+,38-903,S/Lactasoy,Lactasoy Plain 36*250ML,84
+,38-904,S/Lactasoy,Lactasoy Chocolate 36*250ML,84
+,38-905,S/Lactasoy,Lactasoy  Soy Milk 12*1 L,102
+,38-906,S/Lactasoy,Lactasoy Choclate 12*1 L,102
+,38-907,S/Lactasoy,Lactasoy  Soy Milk 12*500 ML,56
+,38-908,S/Lactasoy,Lactasoy Chocolate12*500 ML,56
+,11-901,S/Red Bull,Redbul 24*250,173
+,11-902,S/Red Bull,Redbul SugFr24*250,173
+,11-903,S/Red Bull,Redbul 6*4*250,173
+,11-905,S/Red Bull,Red bull 4*6*250 ml 6pk,173
+,11-910,S/Red Bull,red bull sugar free 6*4*250 ml,173
+HPC,39-750,S/EVYAP,Fax 72*60g Fruit Cocktail 6SHR,67
+,39-751,S/EVYAP,Fax 72*60 g Lemon Fesh 6SHR,67
+,39-752,S/EVYAP,Fax 72*60 g pink Flowr 6SHR,67
+,39-753,S/EVYAP,Fax 48*120 g Summer Romance,81
+,39-754,S/EVYAP,Fax 48*120g Fruit Cocktail,81
+,39-755,S/EVYAP,Fax 48*120 g sunshine apples,81
+,39-756,S/EVYAP,Fax 48*120 spring flowers,81
+,39-757,S/EVYAP,Duru shower gel 12*500 ml,102
+,39-759,S/EVYAP,Duru shower  gel lotus 12*500 ml,102
+,39-760,S/EVYAP,Duru Shower Gel Nat Olive 12*500 ml,102
+,80-179,S/Azmusebat,Derby Extra Stainless Razor 10*20,41
+,80-188,S/Azmusebat,SP Derby Twin Blade Razor 1*40,22
+,20-110,S/J & J,JJ Lotion 6x500,188
+,20-558,S/J & J,JJ Savlon Soap Liquid 6*2lt,430
+,20-592,S/J & J,JJ Savlon 12x750ml,395
+,20-594,S/J & J,JJ Sav 6*75ml,25
+,20-611,S/J & J,JJ Baby Wash Gel TTT 6*550,311
+,20-612,S/J & J,JJ Bed Time Bath Soap6*550,346
+,20-623,S/J & J,JJ Baby Wipes Scented 12*56,104
+,23-601,S/J & J,JJ Pow 6*500g,156
+,23-604,S/J & J,JJ Jely Unsc 6x100 ML,53
+,23-605,S/J & J,JJ Jely Unsc 6x250 ML,110
+,23-606,S/J & J,JJ Soap Reg 12*100 g,89
+,23-607,S/J & J,JJ Lot 6x125 ML,94
+,23-608,S/J & J,JJ Soap Lotion 12*100 g,89
+,23-609,S/J & J,JJ Soap Oil 12*100,89
+,23-610,S/J & J,JJ Oil 6x125 ML,97
+,23-611,S/J & J,JJ Oil 6x200 ML,103
+,23-612,S/J & J,JJ Oil 6x500 ML,199
+,23-613,S/J & J,JJ Oil 6x300 ML,123
+,23-614,S/J & J,JJ Sham 6x300 ML,171
+,23-620,S/J & J,JJ Soap Aloe 12*100 g,89
+,23-636,S/J & J,JJ Soap Bed 12*100 g,89
+,23-637,S/J & J,JJ Pow 6*200g,107
+,23-638,S/J & J,JJ Aq Cr FF 6x350 g,133
+,23-639,S/J & J,JJ Aq Cr LF 6x350 g,112
+,23-640,S/J & J,JJ TTT 6x300 ML,211
+,23-642,S/J & J,JJ Sav 6x500 ML,109
+,23-643,S/J & J,JJ Sav 6x250 ML,71
+,23-644,S/J & J,JJ Sav 6x125 ML,46
+,23-645,S/J & J,Savlon Soap Antis12*175,82
+,23-646,S/J & J,Savlon Soap Energ Citron12*175,82
+,23-648,S/J & J,JJ Jely SC 6x100 ML,41
+,23-649,S/J & J,JJ Jely SC 6x250 ML,70
+,23-650,S/J & J,Savlon Soap South Herbal 12*175,82
+,23-652,S/J & J,JJ Lot 6x200 ML,133
+,23-653,S/J & J,JJ Oil 12*50 ML,84
+,23-656,S/J & J,JJ Sham 6x200 ML,147
+,23-658,S/J & J,JJ Ant Pow 6x200 g,128
+,23-659,S/J & J,JJ Col Splash 6x100 ML,133
+,23-660,S/J & J,JJ Col Joy 6x100 ML,133
+,23-661,S/J & J,Savloan Soap Gentle 12*175,82
+,23-681,S/J & J,vitarich nour body lotion 6*400 ml,84
+,23-692,S/J & J,Baby Col Floral100ML*12,134
+,23-694,S/J & J,J&J Powder 12*50 grs,79
+,23-695,S/J & J,J&J baby cologne morning dew 6*100,134
+,23-696,S/J & J,baby lotion 6*100 ml,95
+,23-697,S/J & J,deo active soap 12*175 g,82
+,23-923,S/J & J,JJ AqCream CocoButter 6*350,135
+,23-924,S/J & J,JJ Jelly Scented 6*325ML,130
+,23-925,S/J & J,JJ BABY JELLY SC *325,157
+,26-325,S/J & J,Vitarich Coco Butter 6*400 ML Lotion,84
+,26-327,S/J & J,Vitarich Papaye 6*400 ML Lotion,84
+,26-336,S/J & J,JJ AQ Cream Vitamine E 6*350,99
+,80-958,S/J & J,JJ Powder 6x100g,61
+,26-201,S/Pfizer,Listerine Antiseptic 6x250 ML,107
+,26-202,S/Pfizer,Listerine Antiseptic6x500 ML,181
+,26-203,S/Pfizer,Listerine Coolmint6x250 ML,107
+,26-204,S/Pfizer,Listerine Coolmint 6x500 ML,181
+,26-205,S/Pfizer,Listerine Freshbrust 6x250 ML,107
+,26-206,S/Pfizer,Listerine FreshBrust 6*500 ML,181
+,26-208,S/Pfizer,Lis tartar 6*250 ML,118
+,26-209,S/Pfizer,Lis tartar 6*500 ML,199
+,20-901,S/SC Jhonson,Kiwi Paste Black 50ml*144,420.07
+,20-902,S/SC Jhonson,kiwi paste dark brown 200*6 ml,71.55
+,20-903,S/SC Jhonson,kiwi dark black 12*100 ml,79.75
+,20-904,S/SC Jhonson,kiwi dark brown  12*100 ml,65.69
+,20-906,S/SC Jhonson,Kiwi Paste Neutral  50ml*144,420.07
+,20-911,S/SC Jhonson,Kiwi Paste Brown 50ml*144,420.07
+,20-915,S/SC Jhonson,Kiwi Paste Dark Tan 50ml*144,420.07
+,20-917,S/SC Jhonson,Kiwi Paste Black 6 *200ml,71.55
+,20-918,S/SC Jhonson,Kiwi Paste Dark Brown 12*100 ML,79.75
+,20-927,S/SC Jhonson,Kiwi S&N Renovator Black 6*200ml,118.04
+,20-929,S/SC Jhonson,Kiwi S&N Renovator Neutral 6*200ml,118.04
+,20-933,S/SC Jhonson,Kiwi Paste Black 12*100 ml,63.34
+,20-934,S/SC Jhonson,Kiwi Paste Dark Brown 6*200 ml,71.55
+,26-338,S/SC Jhonson,Raid Max MLK1*12(300ML),109
+,26-339,S/SC Jhonson,Raid TKP 1*24(300ML),184.09
+,26-340,S/SC Jhonson,Raid Aeosol CIK 1*24(300ML),184.09
+,26-341,S/SC Jhonson,Raid Aerosol FIK 1*24 Aqua,184.09
+,26-342,S/SC Jhonson,Raid Aerosol MLK 1*12(500ML),154.15
+,26-349,S/SC Jhonson,Mr Muscle Duck fresh1*12(750ML),123.67
+,26-350,S/SC Jhonson,Mr Muscle  Lime Scale1*12*750ML,123.67
+,30-121,S/SC Jhonson,Kiwi IWS Premium Black 6*75 ML,68.59
+,30-122,S/SC Jhonson,Kiwi IWS Premium Brown 6*75 ML,68.59
+,36-002,S/SC Jhonson,Glade Clean Linen 12*300 ml,101.89
+,36-030,S/SC Jhonson,Glade Aerosol Lavender 12*300 ml,101.89
+,36-057,S/SC Jhonson,kiwi iws neutral 6*75 ml,68.59
+,36-058,S/SC Jhonson,kiwi paste light brown 12*100 ml,79.75
+,36-059,S/SC Jhonson,kiwi S&N renovator brown 6*200 ml,118.04
+,36-060,S/SC Jhonson,raid da and night starter 12*30ml,71.55
+,36-061,S/SC Jhonson,raid day and night refill 12*30 ml,57.25
+,36-062,S/SC Jhonson,Raid Coil 12*5*10,169.38
+,36-066,S/SC Jhonson,Glade Gel Lavender 30*70 G,121.09
+,36-067,S/SC Jhonson,Glade Aerosol Fresh Lemon 12*300 ml,101.89
+,36-069,S/SC Jhonson,Mr Muscle Lavender 12*750 ml,123.67
+,36-070,S/SC Jhonson,Mr Muscle Citrus 12*750 ml,123.67
+,36-071,S/SC Jhonson,Mr Muscle Mint  12*750 ml,123.67
+,36-072,S/SC Jhonson,TD active clean blue 12*45,50.83
+,36-073,S/SC Jhonson,TD active clean blue 24*45,96.09
+,36-501,S/SC Jhonson,Mr Muscle Odor Eliminator 1*12*750M,123.67
+,36-505,S/SC Jhonson,Mr Muscle Glade Flora 1*12/1000ML,106.96
+,36-506,S/SC Jhonson,Mr Muscle Glade Citrus 1*12/1000ML,106.96
+,36-507,S/SC Jhonson,Mr Muscle Glade Harmony 1*12/1000ML,106.96
+,36-508,S/SC Jhonson,Mr Muscle Glade Lavender 1*12/1000ML,106.96
+,36-512,S/SC Jhonson,Glade Sens  Rrfill  Nectar 1*12,61.9
+,36-513,S/SC Jhonson,Glade Sens Refill Jasmine 1*12,61.9
+,36-514,S/SC Jhonson,Glade Sens Refill Morning  1*12,61.9
+,36-515,S/SC Jhonson,Glade Sen Refill Linen 1*12,61.9
+,36-516,S/SC Jhonson,Glade Sens Refill Floral 1*12,61.9
+,36-517,S/SC Jhonson,Glade Sens Refill Harmony  1*12,61.9
+,36-518,S/SC Jhonson,Glade Sens Refill I Love u 1*12,61.9
+,36-519,S/SC Jhonson,Glade Gel-Jasmine,121.09
+,36-520,S/SC Jhonson,Glade Gel-Flora,121.09
+,36-521,S/SC Jhonson,Glade Gel-Linen,121.09
+,36-522,S/SC Jhonson,Glade Gel-Lemon,121.09
+,36-538,S/SC Jhonson,Glade Airfreshner- Magnolia & Vanila,101.89
+,36-540,S/SC Jhonson,Glade Airfreshner 12*300 Harmony,101.89
+,36-541,S/SC Jhonson,Glade Airfreshner-Berry  12*300 ML,101.89
+,80-858,S/SC Jhonson,Kiwi Paste Black 50ml Pack,29.3
+,80-859,S/SC Jhonson,Kiwi Paste Neutral  50ml Pack,29.3
+,80-875,S/SC Jhonson,Kiwi Paste Brown 50ml Pack,29.84
+,80-876,S/SC Jhonson,Kiwi Paste Dark Tan 50 Pack,29.3
+PEAK,13-008,S/Friesland,Peak Evaporated 24* 170,69.01
+,13-016,S/Friesland,Peak Powder 12x400g,285.31
+,13-022,S/Friesland,Peak Sweetened 120x78g,253.38
+,13-026,S/Friesland,Peak Powder Sachet 12x400 Grs,250.29
+,13-027,S/Friesland,Peak Powder Sachet 210x22 Grs,56.03
+,13-034,S/Friesland,Peak UHT 12*01 L Ful Cream,92.7
+,13-035,S/Friesland,Peak UHT 12*01 Low Fat,89.61
+,13-062,S/Friesland,Peak Skimmed  Ev 24* 170,51.5
+,13-063,S/Friesland,Peak Skimmed Evaporated 48* 170,107.12
+,13-064,S/Friesland,peak evap green 24*390 g,101.97
+,13-065,S/Friesland,Peak Full Cream Ev Unsw 48*160 g,138.02
+,13-066,S/Friesland,Peak Skimmed Evaporated 12* 170,25.75
+,13-067,S/Friesland,Peak Full Cream Ev Unsw 24*160 g,74.16
+,13-105,S/Friesland,Peak Evaporated 24*410,152.44
+,13-106,S/Friesland,peak evap 24*400 g,163.77
+,13-107,S/Friesland,Peak Evap Fill Green  96*30g,70.04
+,13-109,S/Friesland,PEAK uht 20*500 ml,103
+,13-111,S/Friesland,Peak IMP 210*14 g,123.6
+,13-112,S/Friesland,peak scm 24*1kg,181.28
+,13-318,S/Friesland,Peak Pow Sachets 140*20Gr,177.16
+,13-319,S/Friesland,Peak EV 96*30 Sachet,91.67
+,13-328,S/Friesland,peak skimmed evaporated  48*160 g,103
+HAYAT/ HPC,38-124,S/Hayat Detergen,Bingo Soft Stand Sensitive 1L x 15,207.71
+,38-125,S/Hayat Detergen,Bingo Soft Stand Spring Fresh 1L x 15,207.71
+,38-126,S/Hayat Detergen,Bingo Soft Stand Lavander 2L x 8,207.71
+,38-127,S/Hayat Detergen,Bingo Soft Stand Sensitive 2L x 8,207.71
+,38-131,S/Hayat Detergen,Bingo D.W. Lemon 500 ml x 16,109.54
+,38-132,S/Hayat Detergen,Bingo D.W. GreenApple 500mlx 16,109.54
+,38-135,S/Hayat Detergen,Bingo Cream Lemon 500 Ml x 16,151.46
+,38-137,S/Hayat Detergen,Bingo SC Pink Dreams 1L x 12,175.59
+,38-139,S/Hayat Detergen,Bingo Window Cleaner 500 ml x 15,111.28
+,38-140,S/Hayat Detergen,Bingo Powder Scourer Chlorine 500 g x 10,51.94
+,38-141,S/Hayat Detergen,Bingo Powder Scourer Lemon 500 g x 10,51.94
+,38-146,S/Hayat Detergen,Bingo Soft Seabreeze 1000 ML*15,207.71
+,38-155,S/Hayat Detergen,Molfix W Baby Lotion (Without Lid) 63x12,133
+,38-201,S/Hayat Detergen,BINGO SOFT PURPLE DREAM 15*1 L,207.71
+,38-202,S/Hayat Detergen,BINGO SOFT LOVELY 15*1 L,207.71
+,38-204,S/Hayat Detergen,BINGO SOFT STARRY NIGHT 15*1 L,212.69
+,38-211,S/Hayat Detergen,Bingo soft 8*2 L Spring Fresh,207.71
+,38-212,S/Hayat Detergen,bingo soft 4*4 L Spring Fresh,207.71
+,38-223,S/Hayat Detergen,bingo soft pink rose 8*2 L,214.29
+,38-233,S/Hayat Detergen,molfix mini double 2*90,205
+,38-248,S/Hayat Detergen,bingo ov lemon 10*500 gr,49.93
+,38-257,S/Hayat Detergen,bingo mat 8*2 L island fresh,207.71
+,38-290,S/Hayat Detergen,bingo Soft Sensitive 6*3 L,221.21
+,38-291,S/Hayat Detergen,Bingo Soft Gulpembe 6*3 L,221.21
+,38-292,S/Hayat Detergen,Bingo Soft Lavneder 6*3 L,221.21
+,38-306,S/Hayat Detergen,Bingo Lemon &Tang Dishwash 16*500 mll,109.54
+,38-307,S/Hayat Detergen,bingo island softener 6*3 L,221.09
+,38-312,S/Hayat Detergen,bingo soft  ada ferahligi 6*3 L,221.21
+,38-147,S/Hayat Hygienic,Molped Normal 10x24,144.52
+,38-148,S/Hayat Hygienic,Molped Long 8x24,134.18
+,38-149,S/Hayat Hygienic,Molped Normal Eco 20x16,169.61
+,38-150,S/Hayat Hygienic,Molped Long Eco 16*6,169.61
+,38-151,S/Hayat Hygienic,Molped Ultra Normal 10x24,182.87
+,38-152,S/Hayat Hygienic,Molped Ultra Long 8x24,182.87
+,38-153,S/Hayat Hygienic,Molped Ultra Night 7x24,182.87
+,38-154,S/Hayat Hygienic,Molfix W Baby Lotion 40x12,81.19
+,38-156,S/Hayat Hygienic,Molfix W Baby Lotion (With Lid) 63x12,101.75
+,38-157,S/Hayat Hygienic,Molfix W Baby Lotion 3*63 (With Lid),169
+,38-158,S/Hayat Hygienic,Molfix W Baby Lotion 2*63 Mp Eco (With L,123
+,38-159,S/Hayat Hygienic,Evony Adult Diaper Medium 10x6,173.31
+,38-160,S/Hayat Hygienic,Evony Adult Diaper Large 8x6,137.82
+,38-161,S/Hayat Hygienic,Evony Adult Diaper Large 30x4,346.63
+,38-162,S/Hayat Hygienic,Evony Adult Diaper X-Large 30x4,346.63
+,38-174,S/Hayat Hygienic,Molfix Mini 10X10 Small,83.7
+,38-175,S/Hayat Hygienic,Molfix Midi 9X10 Small,83.7
+,38-176,S/Hayat Hygienic,Molfix Maxi 8X10 Small,83.7
+,38-182,S/Hayat Hygienic,Molfix C.Fix E.Large 36X3 Jumbo,183.77
+,38-183,S/Hayat Hygienic,Molfix C.Fix Mini 100X2 Giant,150.97
+,38-184,S/Hayat Hygienic,Molfix 7/24 Midi 90X2 Giant,150.97
+,38-185,S/Hayat Hygienic,Molfix 7/24 Maxi  80X2 Giant,150.97
+,38-186,S/Hayat Hygienic,Molfix 7/24 M.Plus 70X2 Giant,150.97
+,38-187,S/Hayat Hygienic,Molfix 7/24 Junior 58/2 Giant,150.97
+,38-194,S/Hayat Hygienic,Bebem Maxi 60x3 Jumbo,163.7
+,38-205,S/Hayat Hygienic,Molped DC NRM 20X24 2012 COMMON,196.14
+,38-206,S/Hayat Hygienic,Molped DC LARGE 16X24 2012 COMMON,196.14
+,38-207,S/Hayat Hygienic,Molfix C.FIX Junior  58X2 GIGA ECO EXP 6,164.12
+,38-261,S/Hayat Hygienic,Familia Towel 1*6,81.07
+,38-293,S/Hayat Hygienic,Molfix Mini Small 10*15,76.59
+,38-294,S/Hayat Hygienic,Molfix Midi Small 10*12,76.59
+,38-295,S/Hayat Hygienic, Molfix Max 10*10,76.59
+,38-296,S/Hayat Hygienic,molfix small 7*10,76.59
+,38-308,S/Hayat Hygienic,MLF baby LSY wet towel 12*60,96.37
+,38-309,S/Hayat Hygienic,mlf baby wt advt cover wet towel 60*3*6,152.34
+,38-343,S/Hayat Hygienic,Molfix Baby Wips 60*12,97.2
+WRIGLEYS/ MARS,21-312,S/Wrigley's,juicy fruit 30*50*1 chunk,345
+,80-118,S/Wrigley's,PK Menthol Pack  50,30
+,18-275,S/Mars,M&M Peanuts24*1*45,162
+,18-276,S/Mars,M&M Chocolate 24*1*45,162
+,18-277,S/Mars,Maltesers 25*1*37 Gr,223
+,30-149,S/Mars,Ped puppy 7 kg,174
+,30-191,S/Mars,M&M peanuts 16*1*100 grs,233
+,30-192,S/Mars,M&M chocolate 16*1*100 grs,233
+,30-193,S/Mars,M&M peanuts 12*1*200 grs,326
+,30-194,S/Mars,M&M chocolate 1*12*200 grs,326
+,30-196,S/Mars,Snickers Hazelnut 32*49 grs,153
+,30-213,S/Mars,malteserrs box 1*7*360 g,234
+,80-495,S/Mars,BOUNTY DARK 24*57 G,134
+,80-496,S/Mars,BOUNTY TRIO 21*85G,134
+,81-601,S/Mars,Mars 24*51 Single Pack,133
+,81-602,S/Mars,Snickers 24*50 Pack,133
+,81-603,S/Mars,Twix 25*50 Gr Twin Pack,139
+,81-604,S/Mars,Snickers 24*80 Gr Pack,169
+,81-605,S/Mars,Bounty 24*57 Pack,133
+,18-460,S/Mars Pet Food,Pedigree Adult Beef 1*8Kg,147
+,18-461,S/Mars Pet Food,Pedigree Adult Chicken 1*8Kg,147
+,18-463,S/Mars Pet Food,Pedigree Large Dog Beef Rice 1*8 Kg,147
+,18-464,S/Mars Pet Food,Pedigree Adult Beef 1*15Kg,258
+,18-465,S/Mars Pet Food,Pedigree Adult Chicken 1*15Kg,258
+CONFICTIONARY,24-601,S/Merba,Merba AM Choclate 200*16,165
+,24-604,S/Merba,Merba Apple Pie 200/20,165
+,24-605,S/Merba,Merba Brownie 200*20,165
+,24-606,S/Merba,Merba Rainbow 22*150,180
+,24-610,S/Merba,Merba AM ChocCookies22*150,180
+,19-260,S/Soneri,bombo lollypop c/f bubble gum 16*48*18g,159.075
+,19-261,S/Soneri,yogee lollypop 16*48*18 g,159.075
+,19-263,S/Soneri,centro candy 60*50*4 g,138.6
+,19-264,S/Soneri,Jam Gum TF20*30*14.4g,238.875
+,19-265,S/Soneri,Jam Gum Mint 20*30*14.4 g,238.875
+,19-266,S/Soneri,Center Filled Bubble Gum 12 jars*150*4.5,131.25
+,19-267,S/Soneri,center filled bubble gum 12 jugs*125*4.5,126
+,19-271,S/Soneri,Jolly Boy Choc 12*50*10.5 Lollypop,122.85
+,19-272,S/Soneri,Jolly Boy Orange 12*50*10.5 Lollypop,122.85
+,19-273,S/Soneri,Jolly Boy Strawberry 12*50*10.5 Lollypop,122.85
+,19-274,S/Soneri,Jolly Boy Pineapple 12*50*10.5 Lollypop,122.85
+,19-275,S/Soneri,Jolly Boy Tuttifruti 12*50*10.5 Lollypop,122.85
+,16-860,S/Mass Supplier,Malt &Milk 48*50g,21
+,16-863,S/Mass Supplier,Malt&Milk300*13g,26
+,16-864,S/Mass Supplier,Bo TeaTime48*50,22
+,16-867,S/Mass Supplier,Marie Bonita 24x100,18
+,16-870,S/Mass Supplier,Glucose Bonita 300*13 G,26
+,16-872,S/Mass Supplier,Milk Biscuit 48x60,22
+,16-877,S/Mass Supplier,Bon.PetitBeurre300x12g,29
+,16-884,S/Mass Supplier,Bonita Nice 300*13G,26
+,16-888,S/Mass Supplier,Lola Dig 120*50 Gr,54
+,16-895,S/Mass Supplier,Lola Glucose 300*13,29
+,16-896,S/Mass Supplier,Coconut Short Cake 48x85g,37
+,16-900,S/Mass Supplier,Bonita Cream Chocolate 50*65,27
+,16-901,S/Mass Supplier,Bon Cream Vanilla 50*65,27
+,16-913,S/Mass Supplier,Zizou Choco,16
+,16-914,S/Mass Supplier,Zizou Vanilla,16
+,16-915,S/Mass Supplier,Zizou Strawbery,16
+,16-916,S/Mass Supplier,Zizou Coconut,16
+,16-971,S/Mass Supplier,Bonita Wafer Vanilla 35 Gr,35
+,16-972,S/Mass Supplier,Bonita Wafer Chocolate 35 Gr,35
+,16-973,S/Mass Supplier,Bonita Wafer Starwberry 35 Gr,35
+,16-974,S/Mass Supplier,Bonita Wafer Vanilla Chocolate 35 Gr,35
+,16-988,S/Mass Supplier,Mini Quality Cracker 300x12g,26
+,17-190,S/Mass Supplier,Lola Quality Marie36x60,15
+,17-194,S/Mass Supplier,Nice 72*50 Gr,32
+,17-195,S/Mass Supplier,Zizou Banana,16
+,17-202,S/Mass Supplier,Lola Gofret Vanilla 12Gr,16
+,17-203,S/Mass Supplier,Lola Gofret Choclate 12 g,16
+,17-204,S/Mass Supplier,Lola Gofret Strawberry 12 g,16
+,17-206,S/Mass Supplier,Wafer Chocolate 72*35 Gr,35
+,17-210,S/Mass Supplier,Quality Cracker 250x 24g,43
+,17-211,S/Mass Supplier,Zizou Orange,16
+,17-213,S/Mass Supplier,Salty Cracker 20*90 Gr,17
